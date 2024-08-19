@@ -1,1 +1,1 @@
-print('This is a file with information which I added localy')
+print('This is a file')
